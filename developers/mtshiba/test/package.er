@@ -1,0 +1,8 @@
+.name = "test"
+.version = "0.1.0"
+.type = "lib"
+.description = "a dummy library for testing"
+.license = "CC0"
+.authors = ["Shunsuke Shibayama"]
+
+# specify description, license, etc.
