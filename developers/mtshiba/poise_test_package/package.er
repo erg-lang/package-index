@@ -7,6 +7,4 @@
 .pre_build = "build.er"
 
 # specify description, license, etc.
-.dependencies = {
-    .foo = { name = "mtshiba/foo"; version = "0.1.0" }
-}
+.dependencies = {=}
