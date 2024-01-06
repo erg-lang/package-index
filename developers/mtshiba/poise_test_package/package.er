@@ -1,0 +1,10 @@
+.name = "poise_test_package"
+.version = "0.1.0"
+.type = "lib"
+.authors = ["Shunsuke Shibayama"]
+.license = "MIT"
+.description = "A test package for poise"
+.pre_build = "build.er"
+
+# specify description, license, etc.
+.dependencies = {=}
