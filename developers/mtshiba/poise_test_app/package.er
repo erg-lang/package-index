@@ -1,0 +1,7 @@
+.name = "poise_test_app"
+.version = "0.1.0"
+.type = "app" # or "lib"
+.authors = ["Shunsuke Shibayama"]
+
+.license = "MIT"
+.description = "test app"
