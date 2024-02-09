@@ -1,0 +1,8 @@
+.name = "idna"
+.version = "3.6"
+.type = "decl"
+.authors = ["Erg team"]
+.license = "MIT"
+.description = "Type definition for `idna`"
+
+.dependencies = {=}
