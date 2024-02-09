@@ -1,5 +1,5 @@
 .name = "idna"
-.version = "3.6"
+.version = "3.6.0"
 .type = "decl"
 .authors = ["Erg team"]
 .license = "MIT"
